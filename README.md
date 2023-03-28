@@ -8,7 +8,7 @@
     <p>
       Mi nombre es Iván Meneses, tengo 24 años, y soy estudiante de sexto año en Ingeniería Civil Industrial en la FCFM.
     </p>
- <img style="object-fit: cover; bottom:50px;" src="yo.png" width=50% height=300px />
+ <img style="object-fit: cover; bottom:50px; text-align:center;" src="yo.png" width=50% height=300px />
    
 
  </div>
